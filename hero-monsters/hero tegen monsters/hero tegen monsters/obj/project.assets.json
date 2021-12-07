@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thijmen\\Documents\\software-verdieping\\hero-monsters\\hero tegen monsters\\hero tegen monsters\\hero tegen monsters.csproj",
+      "projectUniqueName": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\hero-monsters\\hero tegen monsters\\hero tegen monsters\\hero tegen monsters.csproj",
       "projectName": "hero tegen monsters",
-      "projectPath": "C:\\Users\\Thijmen\\Documents\\software-verdieping\\hero-monsters\\hero tegen monsters\\hero tegen monsters\\hero tegen monsters.csproj",
+      "projectPath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\hero-monsters\\hero tegen monsters\\hero tegen monsters\\hero tegen monsters.csproj",
       "packagesPath": "C:\\Users\\Thijmen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thijmen\\Documents\\software-verdieping\\hero-monsters\\hero tegen monsters\\hero tegen monsters\\obj\\",
+      "outputPath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\hero-monsters\\hero tegen monsters\\hero tegen monsters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thijmen\\AppData\\Roaming\\NuGet\\NuGet.Config",

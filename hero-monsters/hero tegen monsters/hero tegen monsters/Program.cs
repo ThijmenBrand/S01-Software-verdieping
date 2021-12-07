@@ -7,13 +7,19 @@ namespace hero_tegen_monsters
     {
         static void Main(string[] args)
         {
-            hero Hero = new hero();
-            monster Monster = new monster(100);
-            monster Monster2 = new monster(125);
+            game Game = new game();
 
-            Hero.Attack(Monster, 50);
-
-            Console.WriteLine(Monster.health);
+            for(int i = 0; i < 10; i++)
+            {
+                if (Game.runGame() == 1)
+                {
+                    Console.WriteLine($"{creature.heroName} has won the game!");
+                }
+                else
+                {
+                    Console.WriteLine($"{creature.heroName} has been defeaten!");
+                }
+            }
         }
     }
 }
