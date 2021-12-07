@@ -1,0 +1,15 @@
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\obj\Debug\net6.0\traffic.csproj.AssemblyReference.cache
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\obj\Debug\net6.0\traffic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\obj\Debug\net6.0\traffic.AssemblyInfoInputs.cache
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\obj\Debug\net6.0\traffic.AssemblyInfo.cs
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\obj\Debug\net6.0\traffic.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\bin\Debug\net6.0\traffic.exe
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\bin\Debug\net6.0\traffic.deps.json
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\bin\Debug\net6.0\traffic.runtimeconfig.json
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\bin\Debug\net6.0\traffic.dll
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\bin\Debug\net6.0\ref\traffic.dll
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\bin\Debug\net6.0\traffic.pdb
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\obj\Debug\net6.0\traffic.dll
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\obj\Debug\net6.0\ref\traffic.dll
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\obj\Debug\net6.0\traffic.pdb
+C:\Users\Thijmen\Documents\software_verdieping\traffic\traffic\obj\Debug\net6.0\traffic.genruntimeconfig.cache
