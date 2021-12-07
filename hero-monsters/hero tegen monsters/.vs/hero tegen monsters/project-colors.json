@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0850a83-fab8-41b3-ab05-f62a2d080a63": {
+      "ProjectGuid": "a0850a83-fab8-41b3-ab05-f62a2d080a63",
+      "DisplayName": "hero tegen monsters",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
