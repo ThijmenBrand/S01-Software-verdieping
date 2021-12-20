@@ -1,0 +1,15 @@
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\bin\Debug\net6.0\Autodagwaarde.exe
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\bin\Debug\net6.0\Autodagwaarde.deps.json
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\bin\Debug\net6.0\Autodagwaarde.runtimeconfig.json
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\bin\Debug\net6.0\Autodagwaarde.dll
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\bin\Debug\net6.0\ref\Autodagwaarde.dll
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\bin\Debug\net6.0\Autodagwaarde.pdb
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\obj\Debug\net6.0\Autodagwaarde.csproj.AssemblyReference.cache
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\obj\Debug\net6.0\Autodagwaarde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\obj\Debug\net6.0\Autodagwaarde.AssemblyInfoInputs.cache
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\obj\Debug\net6.0\Autodagwaarde.AssemblyInfo.cs
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\obj\Debug\net6.0\Autodagwaarde.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\obj\Debug\net6.0\Autodagwaarde.dll
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\obj\Debug\net6.0\ref\Autodagwaarde.dll
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\obj\Debug\net6.0\Autodagwaarde.pdb
+C:\Users\Thijmen\Documents\software_verdieping\Autodagwaarde\Autodagwaarde\obj\Debug\net6.0\Autodagwaarde.genruntimeconfig.cache

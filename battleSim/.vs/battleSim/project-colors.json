@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3bf75a4d-8fce-4d54-ad02-f9ef60ca1082": {
+      "ProjectGuid": "3bf75a4d-8fce-4d54-ad02-f9ef60ca1082",
+      "DisplayName": "battleSim",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

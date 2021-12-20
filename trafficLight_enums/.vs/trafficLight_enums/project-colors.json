@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4a5fb6f-3c71-42e4-98cf-2968e1ab21ef": {
+      "ProjectGuid": "b4a5fb6f-3c71-42e4-98cf-2968e1ab21ef",
+      "DisplayName": "trafficLight_enums",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

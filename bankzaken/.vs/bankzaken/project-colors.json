@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4277afe1-63a2-4cfd-a805-5b6ff56d5690": {
+      "ProjectGuid": "4277afe1-63a2-4cfd-a805-5b6ff56d5690",
+      "DisplayName": "bankzaken",
+      "ColorIndex": 0
+    },
+    "b5acfa85-8dd3-4789-bfd4-d60bf9537beb": {
+      "ProjectGuid": "b5acfa85-8dd3-4789-bfd4-d60bf9537beb",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

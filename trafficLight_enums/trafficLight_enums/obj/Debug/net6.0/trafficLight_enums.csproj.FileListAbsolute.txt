@@ -1,0 +1,15 @@
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\obj\Debug\net6.0\trafficLight_enums.csproj.AssemblyReference.cache
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\obj\Debug\net6.0\trafficLight_enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\obj\Debug\net6.0\trafficLight_enums.AssemblyInfoInputs.cache
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\obj\Debug\net6.0\trafficLight_enums.AssemblyInfo.cs
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\obj\Debug\net6.0\trafficLight_enums.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\bin\Debug\net6.0\trafficLight_enums.exe
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\bin\Debug\net6.0\trafficLight_enums.deps.json
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\bin\Debug\net6.0\trafficLight_enums.runtimeconfig.json
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\bin\Debug\net6.0\trafficLight_enums.dll
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\bin\Debug\net6.0\ref\trafficLight_enums.dll
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\bin\Debug\net6.0\trafficLight_enums.pdb
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\obj\Debug\net6.0\trafficLight_enums.dll
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\obj\Debug\net6.0\ref\trafficLight_enums.dll
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\obj\Debug\net6.0\trafficLight_enums.pdb
+C:\Users\Thijmen\Documents\software_verdieping\trafficLight_enums\trafficLight_enums\obj\Debug\net6.0\trafficLight_enums.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\obj\Debug\net6.0-windows\bankzaken.csproj.AssemblyReference.cache
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\obj\Debug\net6.0-windows\bankzaken.bankzakenForm.resources
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\obj\Debug\net6.0-windows\bankzaken.csproj.GenerateResource.cache
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\obj\Debug\net6.0-windows\bankzaken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\obj\Debug\net6.0-windows\bankzaken.AssemblyInfoInputs.cache
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\obj\Debug\net6.0-windows\bankzaken.AssemblyInfo.cs
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\obj\Debug\net6.0-windows\bankzaken.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\bin\Debug\net6.0-windows\bankzaken.exe
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\bin\Debug\net6.0-windows\bankzaken.deps.json
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\bin\Debug\net6.0-windows\bankzaken.runtimeconfig.json
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\bin\Debug\net6.0-windows\bankzaken.dll
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\bin\Debug\net6.0-windows\ref\bankzaken.dll
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\bin\Debug\net6.0-windows\bankzaken.pdb
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\obj\Debug\net6.0-windows\bankzaken.dll
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\obj\Debug\net6.0-windows\ref\bankzaken.dll
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\obj\Debug\net6.0-windows\bankzaken.pdb
+C:\Users\Thijmen\Documents\software_verdieping\bankzaken\bankzaken\obj\Debug\net6.0-windows\bankzaken.genruntimeconfig.cache
