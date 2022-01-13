@@ -59,7 +59,6 @@ namespace dinoGame
         {
             if(dino.Bounds.IntersectsWith(munt.Bounds))
             {
-                spawnMunt();
                 return true;
             }
             return false;

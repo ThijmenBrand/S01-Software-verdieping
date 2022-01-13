@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FhlWPUMzvkItAwdErgLXm4A4CfX/nf4Ex5j6JzYf31WKB0fLJTOMz9vns7R9UUPfxgS0rqcCKjf8f1UAHswh2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\CSharpWebScraper\\CSharpWebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thijmen\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\Thijmen\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}

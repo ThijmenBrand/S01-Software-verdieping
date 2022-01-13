@@ -18,11 +18,12 @@ namespace dinoGame
         bool left, right, up, down = false;
         bord green_bord;
         bord red_bord;
+        Random rand = new Random();
         public dinogame()
         {
             InitializeComponent();
-            green_bord = new bord(106, 296, green_dino_picture, green_dino_box.Width, green_dino_box.Height, munt);
-            red_bord = new bord(106, 296, red_dino_picture, red_dino_box.Width, red_dino_box.Height, munt);
+            green_bord = new bord(106, 296, green_dino_picture, 403, 531, munt);
+            red_bord = new bord(106, 296, red_dino_picture, 816, 531, munt);
             this.KeyPreview = true;
             red_bord.spawnMunt();
         }
@@ -38,12 +39,21 @@ namespace dinoGame
             }
             if(red_bord.botsing() || green_bord.botsing())
             {
+                if(rand.Next(0, 10) % 2 == 0)
+                {
+                    red_bord.spawnMunt();
+                }
                 counter++;
                 Score.Text = counter.ToString();
             }
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void green_dino_picture_Click(object sender, EventArgs e)
         {
 
         }

@@ -1,0 +1,17 @@
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\bin\Debug\net6.0-windows\pinService.exe
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\bin\Debug\net6.0-windows\pinService.deps.json
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\bin\Debug\net6.0-windows\pinService.runtimeconfig.json
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\bin\Debug\net6.0-windows\pinService.dll
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\bin\Debug\net6.0-windows\ref\pinService.dll
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\bin\Debug\net6.0-windows\pinService.pdb
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\obj\Debug\net6.0-windows\pinService.csproj.AssemblyReference.cache
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\obj\Debug\net6.0-windows\pinService.Form1.resources
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\obj\Debug\net6.0-windows\pinService.csproj.GenerateResource.cache
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\obj\Debug\net6.0-windows\pinService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\obj\Debug\net6.0-windows\pinService.AssemblyInfoInputs.cache
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\obj\Debug\net6.0-windows\pinService.AssemblyInfo.cs
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\obj\Debug\net6.0-windows\pinService.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\obj\Debug\net6.0-windows\pinService.dll
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\obj\Debug\net6.0-windows\ref\pinService.dll
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\obj\Debug\net6.0-windows\pinService.pdb
+C:\Users\Thijmen\Documents\software_verdieping\pinService\pinService\obj\Debug\net6.0-windows\pinService.genruntimeconfig.cache

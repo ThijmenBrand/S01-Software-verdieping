@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "537a11e7-0bf9-41f9-9b83-dfba9fdc60f5": {
+      "ProjectGuid": "537a11e7-0bf9-41f9-9b83-dfba9fdc60f5",
+      "DisplayName": "EendenVijverLibrary",
+      "ColorIndex": 0
+    },
+    "13cd4347-96d6-4d5d-8ce7-9ae640df378a": {
+      "ProjectGuid": "13cd4347-96d6-4d5d-8ce7-9ae640df378a",
+      "DisplayName": "EendenVijverConsole",
+      "ColorIndex": 1
+    },
+    "cd49defa-a03c-4f88-b84a-6d0291a41b8a": {
+      "ProjectGuid": "cd49defa-a03c-4f88-b84a-6d0291a41b8a",
+      "DisplayName": "EendenVijverForms",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

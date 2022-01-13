@@ -13,7 +13,7 @@ namespace bankzaken
         private int saldo;
         public int Saldo
         { get { return saldo; } }
-        private static int volgendeVrijeRekeningnummer = 2001;
+        private int volgendeVrijeRekeningnummer = 2001;
 
 
         public Bankrekening(string naam)

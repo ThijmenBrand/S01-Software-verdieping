@@ -1,0 +1,12 @@
+C:\Users\Thijmen\Documents\software_verdieping\EendenVijverVanThijmen2\EendenVijverLibrary\bin\Debug\net6.0\EendenVijverLibrary.deps.json
+C:\Users\Thijmen\Documents\software_verdieping\EendenVijverVanThijmen2\EendenVijverLibrary\bin\Debug\net6.0\EendenVijverLibrary.dll
+C:\Users\Thijmen\Documents\software_verdieping\EendenVijverVanThijmen2\EendenVijverLibrary\bin\Debug\net6.0\ref\EendenVijverLibrary.dll
+C:\Users\Thijmen\Documents\software_verdieping\EendenVijverVanThijmen2\EendenVijverLibrary\bin\Debug\net6.0\EendenVijverLibrary.pdb
+C:\Users\Thijmen\Documents\software_verdieping\EendenVijverVanThijmen2\EendenVijverLibrary\obj\Debug\net6.0\EendenVijverLibrary.csproj.AssemblyReference.cache
+C:\Users\Thijmen\Documents\software_verdieping\EendenVijverVanThijmen2\EendenVijverLibrary\obj\Debug\net6.0\EendenVijverLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen\Documents\software_verdieping\EendenVijverVanThijmen2\EendenVijverLibrary\obj\Debug\net6.0\EendenVijverLibrary.AssemblyInfoInputs.cache
+C:\Users\Thijmen\Documents\software_verdieping\EendenVijverVanThijmen2\EendenVijverLibrary\obj\Debug\net6.0\EendenVijverLibrary.AssemblyInfo.cs
+C:\Users\Thijmen\Documents\software_verdieping\EendenVijverVanThijmen2\EendenVijverLibrary\obj\Debug\net6.0\EendenVijverLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen\Documents\software_verdieping\EendenVijverVanThijmen2\EendenVijverLibrary\obj\Debug\net6.0\EendenVijverLibrary.dll
+C:\Users\Thijmen\Documents\software_verdieping\EendenVijverVanThijmen2\EendenVijverLibrary\obj\Debug\net6.0\ref\EendenVijverLibrary.dll
+C:\Users\Thijmen\Documents\software_verdieping\EendenVijverVanThijmen2\EendenVijverLibrary\obj\Debug\net6.0\EendenVijverLibrary.pdb
