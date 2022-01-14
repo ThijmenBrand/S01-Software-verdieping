@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen2\\EendenVijverLibrary\\EendenVijverLibrary.csproj": {}
+    "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen\\EendenVijverLibrary\\EendenVijverLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen2\\EendenVijverLibrary\\EendenVijverLibrary.csproj": {
+    "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen\\EendenVijverLibrary\\EendenVijverLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen2\\EendenVijverLibrary\\EendenVijverLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen\\EendenVijverLibrary\\EendenVijverLibrary.csproj",
         "projectName": "EendenVijverLibrary",
-        "projectPath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen2\\EendenVijverLibrary\\EendenVijverLibrary.csproj",
+        "projectPath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen\\EendenVijverLibrary\\EendenVijverLibrary.csproj",
         "packagesPath": "C:\\Users\\Thijmen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen2\\EendenVijverLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen\\EendenVijverLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thijmen\\AppData\\Roaming\\NuGet\\NuGet.Config",

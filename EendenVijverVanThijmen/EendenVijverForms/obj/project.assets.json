@@ -154,11 +154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen2\\EendenVijverForms\\EendenVijverForms.csproj",
+      "projectUniqueName": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen\\EendenVijverForms\\EendenVijverForms.csproj",
       "projectName": "EendenVijverForms",
-      "projectPath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen2\\EendenVijverForms\\EendenVijverForms.csproj",
+      "projectPath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen\\EendenVijverForms\\EendenVijverForms.csproj",
       "packagesPath": "C:\\Users\\Thijmen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen2\\EendenVijverForms\\obj\\",
+      "outputPath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen\\EendenVijverForms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thijmen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -175,8 +175,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen2\\EendenVijverLibrary\\EendenVijverLibrary.csproj": {
-              "projectPath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen2\\EendenVijverLibrary\\EendenVijverLibrary.csproj"
+            "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen\\EendenVijverLibrary\\EendenVijverLibrary.csproj": {
+              "projectPath": "C:\\Users\\Thijmen\\Documents\\software_verdieping\\EendenVijverVanThijmen\\EendenVijverLibrary\\EendenVijverLibrary.csproj"
             }
           }
         }

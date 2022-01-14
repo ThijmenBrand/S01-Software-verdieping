@@ -7,11 +7,9 @@ using System.Threading.Tasks;
 namespace EendenVijverForms;
 internal interface IDier
 {
-    geslacht Geslacht
-    {
-        get => Geslacht;
-        private set => Geslacht = value;
-    }
+    public geslacht geslacht { get; set; }
+
 
     public string VraagGeslacht();
+    public void moveDier(int locationX, int locationY);
 }

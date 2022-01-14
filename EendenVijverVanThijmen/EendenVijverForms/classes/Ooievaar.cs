@@ -23,7 +23,7 @@ public class Ooievaar : IDier
         Stork.Location = new Point(400, 400);
         Stork.Size = new Size(80, 80);
         Stork.SizeMode = PictureBoxSizeMode.StretchImage;
-        Stork.ImageLocation = "C:/Users/Thijmen/Documents/software_verdieping/EendenVijverVanThijmen2/EendenVijverForms/img/Stork.png";
+        Stork.ImageLocation = "C:/Users/Thijmen/Documents/software_verdieping/EendenVijverVanThijmen/EendenVijverForms/img/Stork.png";
         Stork.BackColor = Color.Transparent;
         Stork.BringToFront();
     }

@@ -21,7 +21,7 @@ public class Eend : IDier
         Eend.Location = new Point(rnd.Next(0, 1549 - eendWidth), rnd.Next(0, 914 - EendHeight));
         Eend.Size = new Size(eendWidth, EendHeight);
         Eend.SizeMode = PictureBoxSizeMode.StretchImage;
-        Eend.ImageLocation = "C:/Users/Thijmen/Documents/software_verdieping/EendenVijverVanThijmen2/EendenVijverForms/img/Duck.png";
+        Eend.ImageLocation = "C:/Users/Thijmen/Documents/software_verdieping/EendenVijverVanThijmen/EendenVijverForms/img/Duck.png";
         Eend.BackColor = Color.Transparent;
 
     }

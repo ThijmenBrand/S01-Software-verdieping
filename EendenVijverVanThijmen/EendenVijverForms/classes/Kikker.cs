@@ -16,7 +16,7 @@ public class Kikker : IDier
         Kikker.Location = new Point(rnd.Next(0, 1549 - KikkerWidth), rnd.Next(0, 914 - KikkerHeight));
         Kikker.Size = new Size(KikkerWidth, KikkerHeight);
         Kikker.SizeMode = PictureBoxSizeMode.StretchImage;
-        Kikker.ImageLocation = "C:/Users/Thijmen/Documents/software_verdieping/EendenVijverVanThijmen2/EendenVijverForms/img/Frog.png";
+        Kikker.ImageLocation = "C:/Users/Thijmen/Documents/software_verdieping/EendenVijverVanThijmen/EendenVijverForms/img/Frog.png";
         Kikker.BackColor = Color.Transparent;
         Kikker.Click += (s, e) => { MessageBox.Show(VraagGeslacht()); };
     }
